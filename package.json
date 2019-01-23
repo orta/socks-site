@@ -1,0 +1,7 @@
+{
+  "license": "MIT",
+  "dependencies": {
+    "now": "^13.1.2",
+    "serve": "^10.1.1"
+  }
+}

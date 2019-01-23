@@ -1,0 +1,67 @@
+/*
+ * Legal Disclaimer
+ *
+ * These Fonts are licensed only for use on these domains and their subdomains:
+ * artsy.net/articles/
+ *
+ * It is illegal to download or use them on other websites.
+ *
+ * While the @font-face statements below may be modified by the client, this
+ * disclaimer may not be removed.
+ *
+ * Lineto.com, 2017
+ */
+
+
+/*
+ *
+ * INSTRUCTIONS
+ *
+ * Copy the Legal Disclaimer and the @font-faces statements to your regular CSS file.
+ * The fonts folder(s) should be placed relative to the regular CSS file.
+ *
+ * You can use either the complete or subsetted fonts:
+ * If you don’t require the entire range of characters, you can use the smaller, subsetted webfonts instead.
+ * See "Glyphs & Languages" for an overview of the characters in the corresponding html file in the root directory of this package.
+ *
+ */
+
+@font-face {
+    font-family: "Unica77LLWebRegular";
+    src: url("Unica77LLWeb-Regular.eot");
+    src: url("Unica77LLWeb-Regular.eot?#iefix") format("embedded-opentype"),
+         url("Unica77LLWeb-Regular.woff2") format("woff2"),
+         url("Unica77LLWeb-Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Unica77LLWebMediumItalic";
+    src: url("Unica77LLWeb-MediumItalic.eot");
+    src: url("Unica77LLWeb-MediumItalic.eot?#iefix") format("embedded-opentype"),
+         url("Unica77LLWeb-MediumItalic.woff2") format("woff2"),
+         url("Unica77LLWeb-MediumItalic.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Unica77LLWebMedium";
+    src: url("Unica77LLWeb-Medium.eot");
+    src: url("Unica77LLWeb-Medium.eot?#iefix") format("embedded-opentype"),
+         url("Unica77LLWeb-Medium.woff2") format("woff2"),
+         url("Unica77LLWeb-Medium.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Unica77LLWebItalic";
+    src: url("Unica77LLWeb-Italic.eot");
+    src: url("Unica77LLWeb-Italic.eot?#iefix") format("embedded-opentype"),
+         url("Unica77LLWeb-Italic.woff2") format("woff2"),
+         url("Unica77LLWeb-Italic.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
